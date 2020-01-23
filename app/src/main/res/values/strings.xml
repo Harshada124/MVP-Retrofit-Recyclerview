@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="userlist">User\'s List</string>
+    <string name="username">User Name</string>
+    <string name="usertype">User Type</string>
+    <string name="welcome">WELCOME</string>
+    <string name="ok">OK</string>
+    <string name="delete">DELETE</string>
+</resources>
